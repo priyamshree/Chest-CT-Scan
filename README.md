@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *Web Development and Machine Learning*
 
-- 📫 How to reach me *aditighosh138@gmail.com*
+- 📫 How to reach me *priyam1953shree@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
