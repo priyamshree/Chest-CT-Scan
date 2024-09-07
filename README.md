@@ -87,7 +87,7 @@ The model is based on a Convolutional Neural Network (CNN) architecture designed
 
 To train the model, we use cross-entropy loss and optimize the model using the Adam optimizer. The model is trained for 50 epochs with a learning rate of 0.001.
 ```
-python train.py --dataset data/chest_cancer --epochs 50 --batch_size 32
+python train.py --dataset data/chest_cancer --epochs () --batch_size 32
 ```
 
 ## Evaluation
@@ -101,9 +101,9 @@ The results of the model are logged during training, and the performance on the 
 
 Example Results:
 
-Accuracy: 85%
-Precision: 82%
-Recall: 80%
+Accuracy: ()
+Precision: ()
+Recall: ()
 
 ## Contributing
 We welcome contributions to this project! To contribute, please:
@@ -116,7 +116,5 @@ We welcome contributions to this project! To contribute, please:
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Connect with Me
 
 ## Thank You!
