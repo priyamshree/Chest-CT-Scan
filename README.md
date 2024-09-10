@@ -1,4 +1,4 @@
-# Chest Cancer Classification Using Deep Learning
+# Chest Cancer Classification Using Deep Learning Model
 
 This repository contains code and resources for chest cancer classification using deep learning techniques. The project involves building a neural network model to classify chest cancer images, leveraging modern deep learning architectures such as CNNs.
 
@@ -101,9 +101,9 @@ The results of the model are logged during training, and the performance on the 
 
 Example Results:
 
-Accuracy: 85%
-Precision: 82%
-Recall: 80%
+Accuracy: 
+Precision: 
+Recall: 
 
 ## Contributing
 We welcome contributions to this project! To contribute, please:
